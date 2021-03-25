@@ -1,2 +1,1 @@
-# embebidos
-comunicacion proteus y hercu
+# flaskServer
